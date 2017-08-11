@@ -20,6 +20,10 @@ url: "http://url-redirection.github.io" # the base hostname & protocol for your 
 # Build settings
 markdown: kramdown
 
+whitelist:
+  - jekyll-redirect-from
+  - github-pages
+
 gems:
   - jekyll-redirect-from
   - github-pages
