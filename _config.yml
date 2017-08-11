@@ -22,3 +22,6 @@ markdown: kramdown
 
 gems:
   - jekyll-redirect-from
+
+plugins:
+  - jekyll-redirect-from
