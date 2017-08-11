@@ -22,6 +22,7 @@ markdown: kramdown
 
 gems:
   - jekyll-redirect-from
+  - github-pages
 
 plugins:
   - jekyll-redirect-from
